@@ -21,8 +21,10 @@ h1 {
 	text-transform: uppercase;
 }
 
+h3 {text-transform: uppercase;
+
+}
+
 img {
 	float: right;
-
-
 }
